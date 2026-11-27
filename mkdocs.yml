@@ -1,0 +1,31 @@
+site_name: illume user guide
+site_url: https://jpyanez.github.io/illume-docs/
+repo_url: https://github.com/jpyanez/illume-docs
+copyright: Content licensed under CC BY 4.0
+theme:
+  name: material
+  features:
+    - navigation.sections
+    - content.code.copy
+  palette:
+    - scheme: default
+      toggle: {icon: material/brightness-7, name: Dark mode}
+    - scheme: slate
+      toggle: {icon: material/brightness-4, name: Light mode}
+markdown_extensions:
+  - admonition
+  - tables
+  - toc: {permalink: true}
+  - pymdownx.superfences
+  - pymdownx.details
+  - pymdownx.tabbed: {alternate_style: true}
+nav:
+  - Home: index.md
+  - Getting access: access.md
+  - The machines: machines.md
+  - Storage: storage.md
+  - Software: software.md
+  - Running jobs: jobs.md
+  - GPU jobs: gpu-jobs.md
+  - Troubleshooting: troubleshooting.md
+  - Policies and help: policies.md
