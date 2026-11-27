@@ -2,7 +2,7 @@
 
 ## Requesting an account
 
-Email the cluster owner with:
+Email the cluster owner, Juan Pablo Yáñez ([j.p.yanez@ualberta.ca](mailto:j.p.yanez@ualberta.ca)), with:
 
 - your name and institutional email address;
 - your supervisor or research group;

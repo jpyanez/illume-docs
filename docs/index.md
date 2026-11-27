@@ -9,7 +9,7 @@ It is built for many independent jobs: simulations, fits, data processing, and m
     - **Announcements** (maintenance, changes) are posted there.
     - **Report problems and ask questions** there. Other users may already know the answer.
 
-    How to join: see [Policies and help](policies.md#contact).
+    To join, send a private Slack message to **juanpablo** on the IceCube or P-ONE Slack. More in [Policies and help](policies.md#contact).
 
 ## Quick start
 

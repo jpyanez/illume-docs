@@ -6,9 +6,8 @@
     - outages and recoveries are posted there automatically;
     - announcements of maintenance and changes;
     - report problems and ask questions there.
-- **Accounts and private matters** (new account, new key, leaving the group): email the cluster owner.
-
-<!-- TODO (owner): how to join #illume-users (workspace, invite link or who to ask), and the owner contact address to publish -->
+- **How to join #illume-users:** send a private Slack message to **juanpablo** on the IceCube or P-ONE Slack workspace, asking to be added.
+- **Accounts and private matters** (new account, new key, leaving the group): email the cluster owner, Juan Pablo Yáñez, at [j.p.yanez@ualberta.ca](mailto:j.p.yanez@ualberta.ca).
 
 ## Fair use
 
@@ -29,4 +28,6 @@ The cluster may be taken down for maintenance or hardware work. Planned downtime
 
 ## Acknowledging illume
 
-<!-- TODO (owner): wording for acknowledging illume in papers and talks -->
+illume was funded by the Canada Foundation for Innovation (CFI) and Alberta Innovates. If you use illume for work you publish or present, please include an acknowledgement such as:
+
+> This research was enabled in part by the illume computing cluster at the University of Alberta, funded by the Canada Foundation for Innovation and Alberta Innovates.
