@@ -16,15 +16,13 @@ A repository appears the first time you access it, so `ls /cvmfs` can look empty
 | `oasis.opensciencegrid.org`, `grid.cern.ch` | Open Science Grid and grid tools |
 | `snoplus.egi.eu` | SNO+ software |
 
-Example: a full LCG software stack (ROOT 6.34, Python 3.11, ...) in one line:
+Example: a full LCG software stack (ROOT 6.34, Python 3.11 with NumPy and SciPy, ...) in one line:
 
 ```bash
 source /cvmfs/sft.cern.ch/lcg/views/LCG_107/x86_64-ubuntu2004-gcc9-opt/setup.sh
 ```
 
 LCG_107 is the newest stack built for Ubuntu 20.04.
-
-<!-- TODO (admin): NumPy (and other Fortran-linked packages) in LCG views fail on illume: libgfortran.so.5 missing (libgfortran5 / HEP_OSlibs not installed). Fix on the cluster or document a workaround before publishing. -->
 
 ## Containers
 
